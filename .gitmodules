@@ -2,6 +2,17 @@
 	path = .registry
 	url = https://github.com/tldbsm/tldbsm.r-universe.dev
 	branch = HEAD
+[submodule "cellxgene.census"]
+	path = cellxgene.census
+	url = https://github.com/chanzuckerberg/cellxgene-census
+	branch = *release
+	subdir = api/r/cellxgene.census
+[submodule "tiledb"]
+	path = tiledb
+	url = https://github.com/TileDB-Inc/TileDB-R
+[submodule "tiledbcloud"]
+	path = tiledbcloud
+	url = https://github.com/TileDB-Inc/TileDB-R
 [submodule "tiledbsoma"]
 	path = tiledbsoma
 	url = https://github.com/single-cell-data/TileDB-SOMA
