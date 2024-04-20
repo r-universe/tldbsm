@@ -12,7 +12,7 @@
 	url = https://github.com/TileDB-Inc/TileDB-R
 [submodule "tiledbcloud"]
 	path = tiledbcloud
-	url = https://github.com/TileDB-Inc/TileDB-R
+	url = https://github.com/TileDB-Inc/TileDB-Cloud-R
 [submodule "tiledbsoma"]
 	path = tiledbsoma
 	url = https://github.com/single-cell-data/TileDB-SOMA
