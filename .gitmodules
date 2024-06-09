@@ -7,6 +7,10 @@
 	url = https://github.com/chanzuckerberg/cellxgene-census
 	branch = v1.14.1
 	subdir = api/r/cellxgene.census
+[submodule "tiledb"]
+	path = tiledb
+	url = https://github.com/TileDB-Inc/TileDB-R
+	branch = *release
 [submodule "tiledbcloud"]
 	path = tiledbcloud
 	url = https://github.com/TileDB-Inc/TileDB-Cloud-R
