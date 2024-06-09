@@ -2,9 +2,5 @@
   {
     "package": "cellxgene.census",
     "releasetag": true
-  },
-  {
-    "package": "tiledb",
-    "releasetag": true
   }
 ]
