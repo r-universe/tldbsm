@@ -10,7 +10,7 @@
 [submodule "tiledb"]
 	path = tiledb
 	url = https://github.com/TileDB-Inc/TileDB-R
-	branch = 0.28.0
+	branch = 0.27.0
 [submodule "tiledbcloud"]
 	path = tiledbcloud
 	url = https://github.com/TileDB-Inc/TileDB-Cloud-R
