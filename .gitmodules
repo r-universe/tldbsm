@@ -5,7 +5,7 @@
 [submodule "cellxgene.census"]
 	path = cellxgene.census
 	url = https://github.com/chanzuckerberg/cellxgene-census
-	branch = v1.14.1
+	branch = v1.15.0
 	subdir = api/r/cellxgene.census
 [submodule "tiledb"]
 	path = tiledb
