@@ -17,5 +17,5 @@
 [submodule "tiledbsoma"]
 	path = tiledbsoma
 	url = https://github.com/single-cell-data/TileDB-SOMA
-	branch = 2.2.0
+	branch = 2.3.0
 	subdir = apis/r
